@@ -17,7 +17,7 @@ I build clean, modern, and fast web applications using:
 ## 🌟 What I Do
 
 <p align="center">
-  <img src="https://i.ibb.co/1ts0SSny/mountain-pixel.png" width="50%" />
+  <img src="https://i.ibb.co/1ts0SSny/mountain-pixel.png" width="500" />
 </p>
 
 ✨ Frontend with interactive UI/UX
