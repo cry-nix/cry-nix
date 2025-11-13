@@ -1,9 +1,5 @@
 # Hi there! 👋
 
-<p align="center">
-  <img src="https://i.ibb.co/Y4LZvbcD/pfp-pixel.png" width="250" style="clip-path: circle();" />
-</p> 👋
-
 ### I'm **Youssef** — a **Full‑Stack Web Developer** 🚀
 
 I build clean, modern, and fast web applications using:
@@ -16,17 +12,13 @@ I build clean, modern, and fast web applications using:
 
 ## 🌟 What I Do
 
-<p align="center">
-  <img src="https://i.ibb.co/1ts0SSny/mountain-pixel.png" width="500" style="border-radius: 10px;" />
-</p>
+- Frontend with interactive UI/UX
 
-✨ Frontend with interactive UI/UX
+- Backend development with powerful APIs
 
-✨ Backend development with powerful APIs
+- Mobile development with React Native
 
-✨ Mobile development with React Native
-
-✨ Always learning and creating awesome stuff
+- Always learning and creating awesome stuff
 
 ---
 
