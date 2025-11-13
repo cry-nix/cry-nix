@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**cry-nix/cry-nix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm **Youssef** — a **Full‑Stack Web Developer** 🚀
 
-Here are some ideas to get you started:
+I build clean, modern, and fast web applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **React.js / React Native** ⚛️
+* **Python** 🐍
+* Sometimes other tools if the project needs it 😉
+
+---
+
+## 🌟 What I Do
+
+✨ Frontend with interactive UI/UX
+
+✨ Backend development with powerful APIs
+
+✨ Mobile development with React Native
+
+✨ Always learning and creating awesome stuff
+
+---
+
+## 📸 A little visual touch
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cry-niw&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cry-nix&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+If you ever wanna reach out, feel free to message me on **Instagram** 📩
+
+👉 *cryn.ix8*
+
+---
+
+Thanks for visiting! 😄
