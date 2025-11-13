@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <p align="center">
-  <img src="https://i.ibb.co/Y4LZvbcD/pfp-pixel.png" width="250" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/Y4LZvbcD/pfp-pixel.png" width="250" style="clip-path: circle();" />
 </p> 👋
 
 ### I'm **Youssef** — a **Full‑Stack Web Developer** 🚀
