@@ -25,7 +25,7 @@ I build clean, modern, and fast web applications using:
 ## 📸 A little visual touch
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cry-niw&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cry-nix&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cry-nix&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
