@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <p align="center">
-  <img src="https://i.ibb.co/Y4LZvbcD/pfp-pixel.png" width="250" />
+  <img src="https://i.ibb.co/Y4LZvbcD/pfp-pixel.png" width="250" border-radius="50%" />
 </p> 👋
 
 ### I'm **Youssef** — a **Full‑Stack Web Developer** 🚀
@@ -17,7 +17,7 @@ I build clean, modern, and fast web applications using:
 ## 🌟 What I Do
 
 <p align="center">
-  <img src="https://i.ibb.co/1ts0SSny/mountain-pixel.png" width="500" />
+  <img src="https://i.ibb.co/1ts0SSny/mountain-pixel.png" width="500" border-radius="10px" />
 </p>
 
 ✨ Frontend with interactive UI/UX
