@@ -1,5 +1,13 @@
 # Hi there! 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.png" width="120" style="border-radius:12px;" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/2WZtOd2.png" width="250" />
+</p> 👋
+
 ### I'm **Youssef** — a **Full‑Stack Web Developer** 🚀
 
 I build clean, modern, and fast web applications using:
@@ -12,6 +20,10 @@ I build clean, modern, and fast web applications using:
 
 ## 🌟 What I Do
 
+<p align="center">
+  <img src="https://i.imgur.com/O6m8P0T.png" width="180" />
+</p>
+
 ✨ Frontend with interactive UI/UX
 
 ✨ Backend development with powerful APIs
@@ -21,6 +33,12 @@ I build clean, modern, and fast web applications using:
 ✨ Always learning and creating awesome stuff
 
 ---
+
+## 🎨 Pixel Art & Visuals
+
+<p align="center">
+  <img src="https://i.imgur.com/Yc3wx6V.gif" width="220" />
+</p>
 
 ## 📸 A little visual touch
 
