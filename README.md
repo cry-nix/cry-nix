@@ -35,7 +35,7 @@ I build clean, modern, and fast web applications using:
 
 If you ever wanna reach out, feel free to message me on **Instagram** 📩
 
-👉 *cryn.ix8*
+👉 [*cryn.ix8*]("https://instagram.com/cryn.ix8")
 
 ---
 
