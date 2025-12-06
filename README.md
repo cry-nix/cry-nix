@@ -1,16 +1,16 @@
 # Hi there! 👋
 
-### I'm **Youssef** — a **Full‑Stack Web Developer** 🚀
+### I'm **Youssef** — a **Full‑Stack Web Developer**
 
 I build clean, modern, and fast web applications using:
 
-* **React.js / React Native** ⚛️
-* **Python** 🐍
-* Sometimes other tools if the project needs it 😉
+* **React.js / React Native**
+* **Python** 
+* Sometimes other tools if the project needs it
 
 ---
 
-## 🌟 What I Do
+## What I Do
 
 - Frontend with interactive UI/UX
 
@@ -22,7 +22,7 @@ I build clean, modern, and fast web applications using:
 
 ---
 
-## 📝 Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cry-nix&show_icons=true&theme=tokyonight" width="49%" />
@@ -31,7 +31,7 @@ I build clean, modern, and fast web applications using:
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 
 If you ever wanna reach out, feel free to message me on **Instagram** 📩
 
@@ -39,4 +39,4 @@ If you ever wanna reach out, feel free to message me on **Instagram** 📩
 
 ---
 
-Thanks for reaching out! 😄
+Thanks for visiting! 😄
