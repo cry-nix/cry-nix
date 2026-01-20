@@ -12,13 +12,9 @@ I build clean, modern, and fast web applications using:
 
 ## What I Do
 
-- Frontend with interactive UI/UX
+- Frontend and Backend
 
-- Backend development with powerful APIs
-
-- Mobile development with React Native
-
-- Always learning and creating awesome stuff
+- Mobile apps with React Native
 
 ---
 
