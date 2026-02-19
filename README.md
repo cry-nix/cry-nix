@@ -18,15 +18,6 @@ I build clean, modern, and fast web applications using:
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cry-nix&show_icons=true&theme=dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cry-nix&layout=compact&theme=dark" width="49%" />
-</p>
-
----
-
 ## Contact Me
 
 If you ever wanna reach out, feel free to message me on **Instagram**
