@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm **Youssef** — a **Full‑Stack Web Developer**
+### I'm **Youssef** a **Full‑Stack Web Developer**
 
 I build clean, modern, and fast web applications using:
 
